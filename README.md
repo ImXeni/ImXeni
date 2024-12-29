@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Xeni 
-🧑🏽‍💻 Passionate Software developer <br/>
+🌠 Passionate Software developer <br/>
 📖 Currently Studying Computer Programming <br/>
 
 # 💻 Tech Stack:
@@ -13,3 +13,6 @@
 
 # 📊 Github Stats:
 [![ImXeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImXeni&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
+# 👨🏽‍💻 Social Links
+[![Discord Server](https://media.discordapp.net/attachments/1308261443342176326/1322966360216567828/discord.png?ex=6772cbef&is=67717a6f&hm=561f950db00fd09d021c4dfc88da0b076ff7aa9424d7bfff95d8e0d2a5b5917f&=&format=webp&quality=lossless)](https://discord.gg/8Yxteq4arp)
