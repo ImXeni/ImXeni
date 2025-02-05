@@ -14,5 +14,3 @@
 # 📊 Github Stats:
 [![ImXeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImXeni&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
-# 👨🏽‍💻 Social Links
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8Yxteq4arp)
